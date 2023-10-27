@@ -1,0 +1,174 @@
+body
+{
+    font-family: Arial,sans-serif;
+    background-color: #5f5f5f;
+}
+
+.header
+{
+    font-size: 13px;
+    text-align: right;
+    padding-top: 22px;
+    padding-right: 10px;
+}
+
+.menuItems
+{
+    font-size: 13px;
+    padding-right: 0px;
+    padding-left: 25px;
+    display: inline-block;
+    
+}
+
+.header a
+{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.header a:hover
+{
+    text-decoration: underline;    
+}
+
+.menu
+{
+    background-color: #5f5f5f;
+    border:none;
+    outline:none;
+    box-shadow: none;
+    padding-left: 0px;
+}
+
+.dropdown-content 
+{
+    width: 270px;
+    padding: 28px;
+    margin-right: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 10px rgba(0,0,0,.2);
+    display: none;
+    z-index: 1;
+    position: absolute;
+    right: 0; 
+    color: #ffffff;
+}
+
+.menuItems:hover .dropdown-content
+{
+    display: block;
+
+}
+
+.appLogo
+{
+    text-align: center;
+    display: inline-block;
+    width: 86px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.dropdown-content .appLogo:hover 
+{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.menuItemLogo
+{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.userImage
+{
+    border-radius: 50%;
+    margin: -1px;
+    overflow: hidden;
+    position: relative;
+    height: 32px;
+    width: 32px;
+    vertical-align: middle;
+}
+
+.container
+{
+    padding-top: 140px;
+    padding-bottom: 160px;
+}
+
+.search
+{
+    font-size: 13px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 14px;
+    width: 600px;
+    color: #222;
+    border: 1px solid #dfe1e5;
+    background:#dfe1e5;
+    border-radius: 24px;
+    outline: none;
+}
+
+
+
+.container .search:hover
+{
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+    border-color: rgba(223,225,229,0);
+}
+
+.container .search:focus-within
+{
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+    border-color: rgba(223,225,229,0);
+}
+
+.input
+{
+    text-align: left;
+    font-size: 18px;
+    width:95%;
+    border: none;
+    outline: none;
+    background-color: #dfe1e5;
+}
+
+.voiceSearch
+{
+    float: right;
+    height: 24px;
+    width: 24px;
+}
+
+.btn
+{
+    display: inline-block;
+    padding-top: 33px;
+    padding: 30px;
+}
+
+.btns
+{
+/*     padding: 18px; */
+    margin-right: 7px;
+    height: 36px;
+    color: #5F6368;
+    font-size: 14px;
+} 
+
+.btns:hover
+{
+    border: 1.5px solid lightslategray;
+    color: black;
+}
+
+i.icon-white {
+    color: white;
+}
