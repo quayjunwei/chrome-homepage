@@ -5,8 +5,8 @@ Customisable homepage for Google Chrome, designed to provide quick access to fre
 ---
 ## Features
 
-- Easy access to GitHub, in4sit, Outlook, xSite, SQL 50, and PD 30
-- Custom Google search bar integrated into the homepage
+- Easy access to my frequently visited sites (GitHub, in4sit, Outlook, xSite, SQL 50, and PD 30)
+- Google search bar integrated into the homepage
 - Responsive design that adapts to different screen sizes
 - Customisable shortcut icons for your favorite websites
 - A clean and intuitive user interface
