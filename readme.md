@@ -2,7 +2,11 @@
 
 Customisable homepage for Google Chrome, designed to provide quick access to frequently used websites and features a Google search bar for convenience.
 
+
+[Live preview](https://quayjunwei.github.io/chrome-homepage/)
+
 ---
+
 ## Features
 
 - Easy access to my frequently visited sites (GitHub, in4sit, Outlook, xSite, SQL 50, and PD 30)
