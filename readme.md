@@ -4,7 +4,6 @@ Customisable homepage for Google Chrome, designed to provide quick access to fre
 
 
 [Live preview](https://quayjunwei.github.io/chrome-homepage/)
-
 ---
 
 ## Features
